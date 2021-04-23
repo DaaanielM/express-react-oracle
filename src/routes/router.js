@@ -7,3 +7,5 @@ router.use('/categorias', require('../routes/categorias.route'));
 router.use('/productos', require('../routes/productos.route'));
 
 module.exports = router;
+
+// xd
